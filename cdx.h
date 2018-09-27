@@ -1,5 +1,5 @@
 #pragma once
-#include "E:\\Source\\Framework\\Bio2\\global.h"
+#include "..\\Bio2\\global.h"
 
 
 class CdxFile :
